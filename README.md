@@ -1,7 +1,7 @@
 # Building a Python package and upload the package to PyPi
 
 # Summary of the package
-I created and object-oriented Python package for a number guessing game where the computer randomly chooses an integer and then tells a human player if a guess is higher or lower than the number and uploaded the package on PyPi.
+I created an object-oriented Python package for a number guessing game where the computer randomly chooses an integer and then tells a human player if a guess is higher or lower than the number and uploaded the package on PyPi.
 
 # Specifications
 The computer first welcomes the player asks the player for his name.
